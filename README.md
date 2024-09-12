@@ -1,4 +1,6 @@
-👋 Hi, I’m @Wyvrtn
+Lazy software engineer
+Java/Service programming
+
 
 
 <!---
